@@ -1,5 +1,5 @@
 # URL of the wallpaper image to download
-$imageUrl = "https://raw.githubusercontent.com/Ahmedazim7804/random/refs/heads/main/Screenshot_2025-09-08-12-28-50-438_com.linkedin.android.jpg"
+$imageUrl = "https://raw.githubusercontent.com/Ahmedazim7804/random/refs/heads/main/image.jpeg"
 
 # Local path to save the downloaded image
 $localPath = "$env:TEMP\wallpaper.jpg"
